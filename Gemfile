@@ -7,8 +7,6 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "github-pages", group: :jekyll_plugins
-
 gem "jekyll", "~> 4.3.3"
 #
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -30,6 +28,7 @@ end
 
 # Performance-booster for watching directories on Windows
 # gem "wdm", "~> 0.1.0", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "minimal-mistakes-jekyll"
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
