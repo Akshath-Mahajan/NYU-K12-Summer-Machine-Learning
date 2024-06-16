@@ -27,7 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
@@ -35,6 +34,6 @@ plugins:
 
 permalink: /:categories/:title/
 search: true
-# logo: "/assets/images/nyu-logo.jpg"
+
 include:
   - _pages
