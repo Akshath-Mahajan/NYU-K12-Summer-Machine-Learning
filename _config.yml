@@ -23,7 +23,7 @@ title: NYU K-12 Summer Machine Learning
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the NYU K-12 Summer Machine Learning Program website! Our innovative program introduces young learners to the exciting world of machine learning and artificial intelligence. Through hands-on projects, interactive lessons, and expert mentorship, students will explore the fundamentals of coding, data analysis, and algorithm development. Designed for K-12 students with varying levels of experience, our curriculum fosters critical thinking and problem-solving skills in a collaborative and supportive environment. Join us this summer to embark on a journey of discovery and technological advancement at NYU!
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/NYU-K12-Summer-Machine-Learning" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
